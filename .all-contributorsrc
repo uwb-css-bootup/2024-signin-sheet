@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "gautamk",
+      "name": "Gautam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/773293?v=4",
+      "profile": "http://gautamk.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "2024-signin-sheet-test",
+  "projectOwner": "uwb-css-bootup"
+}
