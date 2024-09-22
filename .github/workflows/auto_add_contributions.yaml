@@ -12,6 +12,7 @@ on:
 
 jobs:
   comment:
+    permissions: read-all
     runs-on: ubuntu-latest
 
     steps:
