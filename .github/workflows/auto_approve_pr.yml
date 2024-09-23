@@ -6,7 +6,7 @@ jobs:
   auto-approve:
     runs-on: ubuntu-latest
     permissions:
-      pull-requests: 
+      pull-requests: write
     steps:
       - uses: hmarr/auto-approve-action@v4
         with:
