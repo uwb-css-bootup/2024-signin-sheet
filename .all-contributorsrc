@@ -15,12 +15,21 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "O-xix",
+      "name": "Teja Dasari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99446316?v=4",
+      "profile": "https://github.com/O-xix",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
-  "projectName": "2024-signin-sheet-test",
+  "projectName": "2024-signin-sheet",
   "projectOwner": "uwb-css-bootup"
 }
