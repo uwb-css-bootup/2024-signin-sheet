@@ -15,12 +15,21 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Deiray1",
+      "name": "Deiray1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181940752?v=4",
+      "profile": "https://github.com/Deiray1",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
-  "projectName": "2024-signin-sheet-test",
+  "projectName": "2024-signin-sheet",
   "projectOwner": "uwb-css-bootup"
 }
