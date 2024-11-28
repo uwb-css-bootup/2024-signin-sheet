@@ -1,0 +1,5 @@
+Hello my name is Sithartha
+
+select * from yourHouse where Address is not 'your House'
+
+That is an SQL Query
